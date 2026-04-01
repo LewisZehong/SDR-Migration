@@ -1,0 +1,349 @@
+{
+  "access": {
+    "files": "restricted",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "title": "County-Level Real Property Tax Parcel Data for New York State, 2004",
+    "subject": [
+        {
+        "subject": "Land value taxation"
+      },
+      {
+        "subject": "Property"
+      },
+      {
+        "subject": "Tax assessment"
+      }
+      
+    ],
+    "geoLocations": [
+  {
+    "geoLocationPlace": "New York (State)--New York"
+  }
+],
+    "types": {
+    "resourceType": "geospatial data",
+    "resourceTypeGeneral": "dataset"
+},
+    "Language": [
+      "eng"
+    ],
+    "alternateIdentifiers": [
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42698",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42699",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42700",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42701",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42702",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42703",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42704",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42705",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42706",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42707",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42708",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42709",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42710",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42711",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42712",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42713",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42714",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42715",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42716",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42717",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42718",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42719",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42720",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42721",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42722",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42723",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42724",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42725",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42726",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42727",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42728",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42729",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42730",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42731",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42732",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42733",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42734",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42735",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42736",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42737",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42738",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42739",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42740",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42741",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42742",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42743",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42744",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42745",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42746",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42747",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42748",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42749",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42750",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42751",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42752",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42753",
+    "alternateIdentifierType": "Handle"
+  },
+  {
+    "alternateIdentifier": "http://hdl.handle.net/2451/42754",
+    "alternateIdentifierType": "Handle"
+  }
+],
+    "description": "This dataset consists of point shapefile layers representing real property tax parcels for all counties in New York State for the year 2004. Each point represents the visual center of a parcel as recorded on local tax maps. The associated attribute data—including property ownership, assessed land value, and taxation status—was derived from municipal assessment rolls submitted annually under Article 15 of the Real Property Tax Law to the Office of Real Property Services (ORPS). These data were standardized and stored in a central database for the purpose of calculating equalization rates.",
+    "creator": [{
+    "person_or_org": {
+      "name": "New York (State). Department of Taxation and Finance",
+      "type": "organizational"
+    }
+  }],
+    "version": "v1",
+    "dates": [
+      {
+        "date": "2004",
+        "dateType": "Coverage"
+      }
+    ],
+    "custom_fields": {
+      "geospatial:resource_type": {
+        "id": "point-data"
+      },
+      "geoserver": {
+        "layer": [
+  "sdr:nyu_2451_42698",
+  "sdr:nyu_2451_42699",
+  "sdr:nyu_2451_42700",
+  "sdr:nyu_2451_42701",
+  "sdr:nyu_2451_42702",
+  "sdr:nyu_2451_42703",
+  "sdr:nyu_2451_42704",
+  "sdr:nyu_2451_42705",
+  "sdr:nyu_2451_42706",
+  "sdr:nyu_2451_42707",
+  "sdr:nyu_2451_42708",
+  "sdr:nyu_2451_42709",
+  "sdr:nyu_2451_42710",
+  "sdr:nyu_2451_42711",
+  "sdr:nyu_2451_42712",
+  "sdr:nyu_2451_42713",
+  "sdr:nyu_2451_42714",
+  "sdr:nyu_2451_42715",
+  "sdr:nyu_2451_42716",
+  "sdr:nyu_2451_42717",
+  "sdr:nyu_2451_42718",
+  "sdr:nyu_2451_42719",
+  "sdr:nyu_2451_42720",
+  "sdr:nyu_2451_42721",
+  "sdr:nyu_2451_42722",
+  "sdr:nyu_2451_42723",
+  "sdr:nyu_2451_42724",
+  "sdr:nyu_2451_42725",
+  "sdr:nyu_2451_42726",
+  "sdr:nyu_2451_42727",
+  "sdr:nyu_2451_42728",
+  "sdr:nyu_2451_42729",
+  "sdr:nyu_2451_42730",
+  "sdr:nyu_2451_42731",
+  "sdr:nyu_2451_42732",
+  "sdr:nyu_2451_42733",
+  "sdr:nyu_2451_42734",
+  "sdr:nyu_2451_42735",
+  "sdr:nyu_2451_42736",
+  "sdr:nyu_2451_42737",
+  "sdr:nyu_2451_42738",
+  "sdr:nyu_2451_42739",
+  "sdr:nyu_2451_42740",
+  "sdr:nyu_2451_42741",
+  "sdr:nyu_2451_42742",
+  "sdr:nyu_2451_42743",
+  "sdr:nyu_2451_42744",
+  "sdr:nyu_2451_42745",
+  "sdr:nyu_2451_42746",
+  "sdr:nyu_2451_42747",
+  "sdr:nyu_2451_42748",
+  "sdr:nyu_2451_42749",
+  "sdr:nyu_2451_42750",
+  "sdr:nyu_2451_42751",
+  "sdr:nyu_2451_42752",
+  "sdr:nyu_2451_42753",
+  "sdr:nyu_2451_42754"
+],
+        "bounds": "ENVELOPE(-79.762152, -72.135189, 45.010025, 40.574608)",
+        "has_wms": true,
+        "has_wfs": true
+      }
+    }
+  }
+}
