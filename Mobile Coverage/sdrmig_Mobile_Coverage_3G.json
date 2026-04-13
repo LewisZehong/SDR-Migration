@@ -31,6 +31,7 @@
     "Language": [
       "eng"
     ],
+    "publication_date": "2014",
     "identifiers": [
       {
         "identifier": "http://hdl.handle.net/2451/34465",
@@ -89,7 +90,7 @@
         "dateType": "Issued"
       },
       {
-        "date": "2007",
+        "date": "2007/2014",
         "dateType": "Coverage",
         "dateInformation": "2007–2014"
       }
