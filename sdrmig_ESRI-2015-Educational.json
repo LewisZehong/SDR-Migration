@@ -25,6 +25,7 @@
     }
   }
 ],
+    "version": "v1",
     "geoLocations": [
   {
     "geoLocationPlace": "United States of America"
@@ -84,21 +85,7 @@
     },
     "geoserver": {
       "layer": [
-        "sdr:nyu_2451_34603",
-        "sdr:nyu_2451_34604",
-        "sdr:nyu_2451_34605",
-        "sdr:nyu_2451_34606",
-        "sdr:nyu_2451_34607",
-        "sdr:nyu_2451_34608",
-        "sdr:nyu_2451_34609",
-        "sdr:nyu_2451_34610",
-        "sdr:nyu_2451_34611",
-        "sdr:nyu_2451_34612",
-        "sdr:nyu_2451_34613",
-        "sdr:nyu_2451_34614",
-        "sdr:nyu_2451_34615",
-        "sdr:nyu_2451_34616",
-        "sdr:nyu_2451_34617"
+        "sdr:nyu_2451_34603"
       ],
       "bounds": "ENVELOPE(-179.147330000229, -64.5665435791, 71.6032483233, 18.9117200002458)",
       "has_wms": true,
